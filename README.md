@@ -10,3 +10,10 @@
  - 기초 학습
 ## DL/ML
  - 기초 학습
+
+### Coding 환경
++ OS : Linux(Centos 7)
++ DB : MariaDB
++ R
++ jupyter lab
++ pyspark
