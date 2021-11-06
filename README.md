@@ -14,6 +14,4 @@
 ### Coding 환경
 + OS : Linux(Centos 7)
 + DB : MariaDB
-+ R
-+ jupyter lab
-+ pyspark
++ 연동 : R, jupyter lab, pyspark
