@@ -1,10 +1,5 @@
 # Project
-## 서울랜드 컨설팅
-+목적
-+환경
-+분석
-+결과
-+차후계획
+## OO랜드 컨설팅
 
 ## Coding 환경
 + OS : Linux(Centos 7)
