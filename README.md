@@ -8,8 +8,7 @@
  - 기초 학습
 ## DL/ML
  - 기초 학습
- - tensorflow / pytorch
- - openCV
+ - tensorflow
 
 ## Coding 환경
 + OS : Linux(Centos 7)
