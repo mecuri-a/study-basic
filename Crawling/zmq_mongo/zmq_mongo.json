@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "[zmq]ZMQ_pre",
+        "script": "/home/centos/new_crawler/zmq_mongo/parser_zmq_mongo.py",
+        "interpreter" : "python3.8"
+    }
+]}

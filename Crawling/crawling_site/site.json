@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "[idomin]crawler",
+        "script": "/home/centos/new_crawler/idomin/idomin_main.py",
+        "interpreter" : "python3.8"
+    }
+]}
