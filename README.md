@@ -1,7 +1,12 @@
-## Crawling
+## 1.Crawling
  - Web site Crawling
- - DB 연동(MongoDB)
+ - MongoDB
+## 2.Receipt_project
+ - Fask 연동 -> FastAPI 로 변경
+ - Azure DocumentAnalysis OCR API 연동
+ - MongoDB, MsSQL
 
+ 
 # 국비지원과정(공부내용) 
  - 과정명 : AI(머신러닝, 딥러닝)기반 RPA 솔루션 개발 전문가 
  - 기간 : 21.07.21 ~ 22.01.17
