@@ -2,7 +2,7 @@
  - Web site Crawling
  - MongoDB
 ## 2.Receipt_project
- - Fask 연동 -> FastAPI 로 변경
+ - Flask 연동 -> FastAPI 로 변경
  - Azure DocumentAnalysis OCR API 연동
  - MongoDB, MsSQL
 

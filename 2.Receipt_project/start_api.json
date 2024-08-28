@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "Fast_API",
+        "script": "/home/azureuser/azure_api/fast_api.py",
+        "interpreter" : "python3.8"
+    }
+]}
